@@ -4,13 +4,13 @@
 
 <hr>
 Current version: v1.0.0 (2024/04/27)
-<br>
+<hr>
 <p><strong>Requirement :</strong></p>
 <ul>
  	<li>Discord PC : https://discord.com/download</li>
  	<li>Vencord Plugin : https://vencord.dev/download</li>
 </ul>
-<br>
+<hr>
 Vencord theme link : 👇
 
 ```
