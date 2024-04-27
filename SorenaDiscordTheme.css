@@ -13,7 +13,7 @@
 @import url("https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/fonts.css");
 @import url("https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/icons.css");
 :root {
-  --app-font: "Google Sans";
+  --app-font: "Vazirmatn";
   --app-bg: var(--main-alt);
   --accent-hue: 224;
   --accent-saturation: 71%;
