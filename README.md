@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 <hr>
 <b>❗Note :
 <br>
+<br>
 <em>This theme is just a customized version of the original version.
 <br>
 All rights are reserved to the original owner.
