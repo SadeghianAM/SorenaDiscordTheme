@@ -3,11 +3,7 @@
 <hr>
 
 Current version: v1.0.0 (2024/04/27)
-
-[BetterDiscord download](https://betterdiscord.app/theme/MaterialDiscord)
 <br>
-[View add-on themes](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord/css/addons)
-
 Vencord link
 ```
 https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css
