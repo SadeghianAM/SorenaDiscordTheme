@@ -27,11 +27,11 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 
 <b>Important Note : </b>
 <br>
-<em>This theme is just a customized version of the original version.
+<em>This theme is just a customized version of Material Discord.
 <br>
 All rights are reserved to the original owner.
 <br>
-Original version : https://github.com/CapnKitten/Material-Discord</em>
+Material Discord : https://github.com/CapnKitten/Material-Discord</em>
 
 <hr>
 
