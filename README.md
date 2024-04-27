@@ -8,6 +8,10 @@ Vencord link : 👇
 ```
 https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css
 ```
+<br>
+The installation tutorial will be published soon...
+<br>
+
 This theme is just a customized version of the original version.
 <br>
 All rights are reserved to the original owner.
