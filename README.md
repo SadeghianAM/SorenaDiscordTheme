@@ -22,6 +22,8 @@ All rights are reserved to the original owner.
 <br>
 Original version : https://github.com/CapnKitten/Material-Discord
 
+<hr>
+
 #### Main chat area
 
 ![discord-701](https://user-images.githubusercontent.com/4013216/216792441-cc02a2fc-d175-432d-af75-81975d75e65e.png)
