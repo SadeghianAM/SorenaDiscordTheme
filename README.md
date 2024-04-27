@@ -39,13 +39,11 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 
 ![discord-706](https://user-images.githubusercontent.com/4013216/216792463-a2472c19-21bd-48e0-beba-05d092c715dc.png)
 
-
 <hr>
-<b>❗Note :
-<br>
+<b>❗Important Note❗:</b>
 <br>
 <em>This theme is just a customized version of the original version.
 <br>
 All rights are reserved to the original owner.
 <br>
-Original version : https://github.com/CapnKitten/Material-Discord</em></b>
+Original version : https://github.com/CapnKitten/Material-Discord</em>
