@@ -1,6 +1,6 @@
 # Sorena Discord Theme
 
-#### A Discord theme with Persian and Arabic language support
+## A Discord theme with Persian and Arabic language support
 
 <hr>
 
@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 <hr>
 <b>The installation tutorial will be published soon...</b>
 <hr>
-
+###🟥 Note:
 This theme is just a customized version of the original version.
 <br>
 All rights are reserved to the original owner.
