@@ -3,13 +3,13 @@
 #### A Discord theme with Persian and Arabic language support
 
 <hr>
-
+Current version: v1.0.0 (2024/04/27)
+<br>
 <p><strong>Requirement :</strong></p>
 <ul>
  	<li>Discord PC : https://discord.com/download</li>
  	<li>Vencord Plugin : https://vencord.dev/download</li>
 </ul>
-Current version: v1.0.0 (2024/04/27)
 <br>
 Vencord theme link : 👇
 
