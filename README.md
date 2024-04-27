@@ -15,13 +15,14 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 <hr>
 <b>The installation tutorial will be published soon...</b>
 <hr>
-<b>🟥 Note:</b>
+**🟥 Note:
+**
 <br>
---This theme is just a customized version of the original version.
+***This theme is just a customized version of the original version.***
 <br>
---All rights are reserved to the original owner.
+**All rights are reserved to the original owner.***
 <br>
---Original version : https://github.com/CapnKitten/Material-Discord
+**Original version : https://github.com/CapnKitten/Material-Discord***
 
 <hr>
 
