@@ -1,3 +1,15 @@
+/**
+ * @name Sorena Discord Theme
+ * @author SadeghianAM
+ * @version 1.0.0
+ * @description A Discord theme with Persian and Arabic language support.
+ * @source https://github.com/SadeghianAM/Sorena-Discord-Theme
+ * @website https://github.com/SadeghianAM
+ * @invite khrnAaBC
+ */
+
+/* Credits to MaterialDiscord for making the original theme. */
+
 @import url("https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/fonts.css");
 @import url("https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/icons.css");
 :root {
