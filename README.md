@@ -9,7 +9,9 @@ Vencord link : 👇
 https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css
 ```
 This theme is just a customized version of the original version.
+<br>
 All rights are reserved to the original owner.
+<br>
 Original version : https://github.com/CapnKitten/Material-Discord
 
 #### Main chat area
