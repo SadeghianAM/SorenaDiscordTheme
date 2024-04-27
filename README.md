@@ -15,7 +15,8 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 <hr>
 <b>The installation tutorial will be published soon...</b>
 <hr>
-###🟥 Note:
+### Note:
+<br>
 This theme is just a customized version of the original version.
 <br>
 All rights are reserved to the original owner.
