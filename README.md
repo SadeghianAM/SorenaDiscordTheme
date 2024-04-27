@@ -13,8 +13,10 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 <hr>
 <b>The installation tutorial will be published soon...</b>
 <hr>
-
-
+### requirement :
+- Discord PC : https://discord.com/download
+- Vencord Plugin : https://vencord.dev/download
+<hr>
 <b>❗Important Note</b>
 <br>
 <em>This theme is just a customized version of the original version.
