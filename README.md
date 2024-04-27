@@ -4,7 +4,7 @@
 
 Current version: v1.0.0 (2024/04/27)
 <br>
-Vencord link
+Vencord link : 👇
 ```
 https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css
 ```
