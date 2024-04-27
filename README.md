@@ -12,7 +12,8 @@ Vencord link : 👇
 https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css
 ```
 
-
+<hr>
+<b>The installation tutorial will be published soon...</b>
 
 <hr>
 
@@ -38,10 +39,9 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 
 ![discord-706](https://user-images.githubusercontent.com/4013216/216792463-a2472c19-21bd-48e0-beba-05d092c715dc.png)
 
+
 <hr>
-<b>The installation tutorial will be published soon...</b>
-<hr>
-<b>❗Note:
+<b>❗Note :
 <br>
 <em>This theme is just a customized version of the original version.
 <br>
