@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDi
 
 <hr>
 
-<b>❗Important Note</b>
+<b>Important Note : </b>
 <br>
 <em>This theme is just a customized version of the original version.
 <br>
