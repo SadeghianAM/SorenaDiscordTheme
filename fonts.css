@@ -5,7 +5,6 @@
   font-display: swap;
   src: url(https://raw.githubusercontent.com/rastikerdar/vazirmatn/master/fonts/webfonts/Vazirmatn-Regular.woff2)
     format("woff2");
-  unicode-range: U+0600-06FF;
 }
 
 @font-face {
@@ -15,7 +14,6 @@
   font-display: swap;
   src: url(https://raw.githubusercontent.com/rastikerdar/vazirmatn/master/fonts/webfonts/Vazirmatn-Medium.woff2)
     format("woff2");
-  unicode-range: U+0600-06FF;
 }
 
 @font-face {
@@ -25,16 +23,7 @@
   font-display: swap;
   src: url(https://raw.githubusercontent.com/rastikerdar/vazirmatn/master/fonts/webfonts/Vazirmatn-Bold.woff2)
     format("woff2");
-  unicode-range: U+0600-06FF;
 }
-
-/*
-   *
-   *	FONTS
-   *
-   */
-
-/* FONTS -> GOOGLE SANS */
 
 /* FONTS -> GOOGLE SANS -> 400 */
 
