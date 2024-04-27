@@ -12,7 +12,11 @@ Current version: v1.0.0 (2024/04/27)
 <ul>
  	<li>Discord PC : https://discord.com/download</li>
  	<li>Vencord Plugin : https://vencord.dev/download</li>
-  <li>Vencord link : https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css (copy or download this link)
+  <li>Vencord link : 
+   ```
+   https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css
+   ``` 
+   (copy or download this link)
 </ul>
 
 <hr>
