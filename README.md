@@ -3,8 +3,11 @@
 #### A Discord theme with Persian and Arabic language support
 
 <hr>
+
 Current version: v1.0.0 (2024/04/27)
+
 <hr>
+
 <p><strong>Requirement :</strong></p>
 <ul>
  	<li>Discord PC : https://discord.com/download</li>
@@ -13,6 +16,7 @@ Current version: v1.0.0 (2024/04/27)
 </ul>
 
 <hr>
+
 <b>The installation tutorial will be published soon...</b>
 
 <hr>
