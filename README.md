@@ -4,23 +4,20 @@
 
 <hr>
 
+<p><strong>Requirement :</strong></p>
+<ul>
+ 	<li>Discord PC : https://discord.com/download</li>
+ 	<li>Vencord Plugin : https://vencord.dev/download</li>
+</ul>
 Current version: v1.0.0 (2024/04/27)
 <br>
-Vencord link : 👇
+Vencord theme link : 👇
 
 ```
 https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css
 ```
 
 <hr>
-<p><strong>Requirement :</strong></p>
-<ul>
- 	<li>Discord PC : https://discord.com/download</li>
- 	<li>Vencord Plugin : https://vencord.dev/download</li>
-</ul>
-
-<hr>
-
 <b>The installation tutorial will be published soon...</b>
 
 <hr>
