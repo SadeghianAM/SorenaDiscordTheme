@@ -11,7 +11,10 @@ Current version: v1.0.0 (2024/04/27)
  	<li>Vencord Plugin : https://vencord.dev/download</li>
 </ul>
 <hr>
-Vencord theme link : ``` https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css ```
+Vencord link : 
+```
+https://raw.githubusercontent.com/SadeghianAM/Sorena-Discord-Theme/main/SorenaDiscordTheme.css 
+```
 
 <hr>
 <b>The installation tutorial will be published soon...</b>
