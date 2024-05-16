@@ -14,7 +14,7 @@ Current version: v1.0.0 (2024/04/27) - Public release
 </ul>
 
 ## Tutorial
-<b>The installation tutorial will be published soon...</b>
+The installation tutorial will be published soon...
 
 ## Important Note :
 <em>This theme is just a customized version of Material Discord.
