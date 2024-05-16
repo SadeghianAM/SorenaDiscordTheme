@@ -1,6 +1,4 @@
-# Sorena Discord Theme
-Sorena is a Discord theme with Persian and Arabic language support
-<br>
+# SORENA Discord Theme
 Sorena uses Vazirmatn font made by - **Saber Rasti Kardar 🖤** - to display Persian numbers and letters
 
 ## Version and changelog
