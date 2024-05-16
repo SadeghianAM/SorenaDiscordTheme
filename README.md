@@ -25,6 +25,6 @@ Current version: v1.0.0 (2024/04/27)
 <br>
 <em>This theme is just a customized version of Material Discord.
 <br>
-All rights are reserved to the original owner.
+All the images, and graphics used in the theme belong to their respective owners
 <br>
 Material Discord : https://github.com/CapnKitten/Material-Discord</em>
