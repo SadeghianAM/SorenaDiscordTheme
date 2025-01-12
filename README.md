@@ -14,11 +14,14 @@ Sorena is a customized Discord theme that enhances the visual experience for Per
 
 ## Version and Changelog
 
-### Current Version: v2.0.0
+### Current Version: v2.0
 
 - **Release Date:** 2025/01/12
-- **Highlights:** Initial public release with full support for Persian/Arabic script.
+- **Highlights:** Enhanced with the latest technical improvements and graphical updates to Discord.
 
+### Version 1.0
+- **Release Date:** 2024/04/27
+- **Highlights:** Initial public release with full support for Persian/Arabic script.
 ---
 
 ## Requirements
